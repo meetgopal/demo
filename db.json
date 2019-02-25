@@ -1,14 +1,122 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "_id": "5c6e876738b56cd4a2814547",
+      "Job": "Back Office",
+      "role_category": "Back Office",
+      "experience": 2,
+      "location": "201301, Noida, Uttar Pradesh",
+      "company": {
+        "_id": "5c6e87671223046233f8427c",
+        "name": "Infoedge",
+        "address": "201301, Noida, Uttar Pradesh",
+        "email": "contact@naukri.com",
+        "city": "Delhi",
+        "contact_info": 7317222680,
+        "Website": "http://naukri.com/"
+      },
+      "salary": 12000,
+      "posted": "Thursday, 21 February 2019",
+      "job_desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "qualification": "12th Pass",
+      "gender": "Male",
+      "skills": "Sales",
+      "recruiter_specific_requirements": [
+        "Do you know driving?",
+        "Do you cook ?"
+      ],
+      "job_timing": "Mon - Fri 9:00 AM to 07:30 PM",
+      "interview_timing": "9:00 AM to 07:30 PM",
+      "interview_address": "201301, Noida, Uttar Pradesh",
+      "no_of_openings": 5,
+      "recruiter": {
+        "_id": "5c6e876715669e0bb302140a",
+        "name": "Affan",
+        "address": "201301, Noida, Uttar Pradesh",
+        "email": "affan@naukri.com",
+        "city": "Delhi",
+        "contact_info": 7317222680,
+        "Website": "http://naukri.com/"
+      }
+    },
+    {
+      "_id": "5c6e876738b56cd4a2814548",
+      "Job": "Sales",
+      "role_category": "Back Office",
+      "experience": 2,
+      "location": "201301, Noida, Uttar Pradesh",
+      "company": {
+        "_id": "5c6e87671223046233f8427c",
+        "name": "Infoedge",
+        "address": "201301, Noida, Uttar Pradesh",
+        "email": "contact@naukri.com",
+        "city": "Delhi",
+        "contact_info": 7317222680,
+        "Website": "http://naukri.com/"
+      },
+      "salary": 12000,
+      "posted": "Thursday, 21 February 2019",
+      "job_desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "qualification": "12th Pass",
+      "gender": "Male",
+      "skills": "Sales",
+      "recruiter_specific_requirements": [
+        "Do you know driving?",
+        "Do you cook ?"
+      ],
+      "job_timing": "Mon - Fri 9:00 AM to 07:30 PM",
+      "interview_timing": "9:00 AM to 07:30 PM",
+      "interview_address": "201301, Noida, Uttar Pradesh",
+      "no_of_openings": 5,
+      "recruiter": {
+        "_id": "5c6e876715669e0bb302140a",
+        "name": "Affan",
+        "address": "201301, Noida, Uttar Pradesh",
+        "email": "affan@naukri.com",
+        "city": "Delhi",
+        "contact_info": 7317222680,
+        "Website": "http://naukri.com/"
+      }
+    },
+    {
+      "_id": "5c6e876738b56cd4a2814549",
+      "Job": "Tele Calling",
+      "role_category": "Back Office",
+      "experience": 2,
+      "location": "201301, Noida, Uttar Pradesh",
+      "company": {
+        "_id": "5c6e87671223046233f8427c",
+        "name": "Infoedge",
+        "address": "201301, Noida, Uttar Pradesh",
+        "email": "contact@naukri.com",
+        "city": "Delhi",
+        "contact_info": 7317222680,
+        "Website": "http://naukri.com/"
+      },
+      "salary": 12000,
+      "posted": "Thursday, 21 February 2019",
+      "job_desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "qualification": "12th Pass",
+      "gender": "Male",
+      "skills": "Sales",
+      "recruiter_specific_requirements": [
+        "Do you know driving?",
+        "Do you cook ?"
+      ],
+      "job_timing": "Mon - Fri 9:00 AM to 07:30 PM",
+      "interview_timing": "9:00 AM to 07:30 PM",
+      "interview_address": "201301, Noida, Uttar Pradesh",
+      "no_of_openings": 5,
+      "recruiter": {
+        "_id": "5c6e876715669e0bb302140a",
+        "name": "Affan",
+        "address": "201301, Noida, Uttar Pradesh",
+        "email": "affan@naukri.com",
+        "city": "Delhi",
+        "contact_info": 7317222680,
+        "Website": "http://naukri.com/"
+      }
+    },
+    
+  ]
 }
